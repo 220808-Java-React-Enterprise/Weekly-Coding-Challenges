@@ -21,7 +21,7 @@ of the sets.
 **Example 2:**
 
 <pre>
-<b>Input:</b> s = "", t = "bob"
+<b>Input:</b> s = "tab", t = "bob"
 <b>Output:</b> false
 </pre>
 
@@ -44,20 +44,20 @@ where `t` was supposed to be.
 **Example 1:**
 
 <pre>
-<b>Input:</b> nums = [1,2,3,6], target = 5
+<b>Input:</b> nums = [1, 2, 3, 6], t = 5
 <b>Output:</b> 3
 </pre>
 
 **Example 2:**
 
 <pre>
-<b>Input:</b> nums = [1,2,3,4], target = 2
+<b>Input:</b> nums = [1, 2, 3, 4], t = 2
 <b>Output:</b> 1
 </pre>
 
 **Example 3:**
 
 <pre>
-<b>Input:</b> nums = [1,3,10,20], target = 7
+<b>Input:</b> nums = [1, 3, 10, 20], t = 7
 <b>Output:</b> 2
 </pre>
